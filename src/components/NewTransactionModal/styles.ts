@@ -15,7 +15,7 @@ export const Container = styled.form `
 
     input {
         width : 100%;
-        ;   border-radius : 0.25rem;
+       border-radius : 0.25rem;
         background : var(----input-background);
         border : 1px solid #d7d7d7;
         font-weight : 400 ; 
@@ -26,7 +26,7 @@ export const Container = styled.form `
         }
 
         & + input {
-            ;
+            
             margin-top : 1rem ; // start by second input 
 
         }

@@ -13,15 +13,8 @@ export const Container = styled.form `
         margin-bottom : 2rem;
     }
 
-
-
     input {
         padding: 1rem;
-
-    }
-
-    input {
-       padding: 1rem;
         width : 100%;
         border-radius : 0.25rem;
         background : var(----input-background);

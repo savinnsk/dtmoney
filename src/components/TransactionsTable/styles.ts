@@ -26,7 +26,7 @@ export const Container = styled.div `
             
             }
             
-        }k;
+        };
 
         td {
             padding : 1rem 2rem ;

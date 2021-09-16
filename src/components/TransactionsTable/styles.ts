@@ -15,7 +15,18 @@ export const Container = styled.div `
             padding : 1rem 2rem ;
             text-align : left;
             line-height :1.5rem;
-        }
+            
+            
+            @media(max-width: 720px){
+            
+            
+                & {
+                display: block;
+                }
+            
+            }
+            
+        }k;
 
         td {
             padding : 1rem 2rem ;
